@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "XOoJqQnPGk5+UxzfYaH6n75GP6j4lU+R6N2cLCv+Gdbyn0jbE7r1g1ANfNluJdCC/fUG8e7ev3dgVvhQIRAq5Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Toadles\\RiderProjects\\WpfApp1\\kingsman\\kingsman.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Toadles\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.14\\microsoft.netcore.app.ref.6.0.14.nupkg.sha512",
+    "C:\\Users\\Toadles\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.14\\microsoft.windowsdesktop.app.ref.6.0.14.nupkg.sha512",
+    "C:\\Users\\Toadles\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.14\\microsoft.aspnetcore.app.ref.6.0.14.nupkg.sha512",
+    "C:\\Users\\Toadles\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.14\\microsoft.netcore.app.host.win-x64.6.0.14.nupkg.sha512"
+  ],
+  "logs": []
+}
